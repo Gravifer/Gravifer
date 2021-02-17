@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Gravifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gravifer&show_icons=true&count_private=true)](https://github.com/Gravifer/github-readme-stats)
 
 <!--
 **Gravifer/Gravifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
