@@ -1,4 +1,6 @@
-[![Gravifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gravifer&show_icons=true&count_private=true)](https://github.com/Gravifer/github-readme-stats)
+[![Gravifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gravifer&theme=nord&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Gravifer's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravifer&theme=nord&show_icons=true&count_private=true&hide=mathematica)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gravifer/Gravifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
