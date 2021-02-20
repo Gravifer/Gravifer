@@ -23,40 +23,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 47 Contributions in the Year 2021
- > 
-> 📦 366.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    31 commits     █████░░░░░░░░░░░░░░░░░░░░   21.99% 
-🌆 Daytime    64 commits     ███████████░░░░░░░░░░░░░░   45.39% 
-🌃 Evening    35 commits     ██████░░░░░░░░░░░░░░░░░░░   24.82% 
-🌙 Night      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.8%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-Tuesday      14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
-Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-Thursday     32 commits     █████░░░░░░░░░░░░░░░░░░░░   22.7% 
-Friday       43 commits     ███████░░░░░░░░░░░░░░░░░░   30.5% 
-Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-Sunday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
-
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111209%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -95,10 +62,6 @@ Assembly                 1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Gravifer/Gravifer/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
