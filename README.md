@@ -25,6 +25,17 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111209%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    31 commits     █████░░░░░░░░░░░░░░░░░░░░   21.99% 
+🌆 Daytime    64 commits     ███████████░░░░░░░░░░░░░░   45.39% 
+🌃 Evening    35 commits     ██████░░░░░░░░░░░░░░░░░░░   24.82% 
+🌙 Night      11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.8%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
