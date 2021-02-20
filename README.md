@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 VimL                     1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   39.55% 
 Other                    1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   38.04% 
