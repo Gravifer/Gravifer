@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gravifer.Gravifer)](https://github.com/Gravifer/) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111210%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ```text
 💬 Programming Languages: 
 Wolfram                  3 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   42.01% 
-Other                    1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24% 
+Other                    1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22% 
 VimL                     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
 Browsing                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.14% 
 JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
