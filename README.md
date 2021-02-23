@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![Gravifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gravifer&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Gravifer's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravifer&theme=default&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gravifer.Gravifer)](https://github.com/Gravifer/) -->
-[![Gravifer's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gravifer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gravifer's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gravifer&bg_color=none&color=3080ed&line=5094f0&point=4d72f2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
