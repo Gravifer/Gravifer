@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111822%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -54,11 +55,11 @@ Bash                     6 mins              ░░░░░░░░░░░�
 Powershell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🐱‍💻 Projects: 
-Unknown Project          20 hrs 5 mins       █████████████░░░░░░░░░░░░   55.03% 
+github-profile           14 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   38.45% 
+Unknown Project          6 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58% 
 queue-sdp                5 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
 wakatime-config          5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
-posh-wakatime            1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.83% 
-wolfram-wakatime         1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44%
+posh-wakatime            1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
 
 💻 Operating System: 
 Windows                  35 hrs 24 mins      ████████████████████████░   96.97% 
