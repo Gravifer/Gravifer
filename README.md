@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![Gravifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gravifer&theme=default&bg_color=ffffff0a&text_color=808080&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Gravifer's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gravifer&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Gravifer's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravifer&theme=default&bg_color=ffffff0a&text_color=808080&hide_border=true&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Gravifer's StackExchange profile](https://stackexchange.com/users/flair/18316138.png?theme=clean)](https://stackexchange.com/users/18316138)
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gravifer.Gravifer)](https://github.com/Gravifer/) -->
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
