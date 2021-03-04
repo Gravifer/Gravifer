@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 [![Gravifer's StackExchange profile](https://stackexchange.com/users/flair/18316138.png?theme=clean)](https://mathematica.stackexchange.com/users/72025)
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gravifer.Gravifer)](https://github.com/Gravifer/) -->
 
+<details>
+  <summary>
+    <strong>My Working Style</strong><!--<a href="https://wakatime.com/badge/github/Gravifer/Gravifer"><img src="https://wakatime.com/badge/github/Gravifer/Gravifer.svg" alt="time tracker"></a>-->
+  </summary>
+
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
@@ -81,3 +86,4 @@ Assembly                 1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
