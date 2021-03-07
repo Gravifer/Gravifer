@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-615389%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-628703%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -76,10 +76,11 @@ Linux                    2 hrs 19 mins       █░░░░░░░░░░�
 **I Mostly Code in Mathematica** 
 
 ```text
-Mathematica              5 repos             ████████████░░░░░░░░░░░░░   50.0% 
-TeX                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-MATLAB                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Assembly                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Mathematica              6 repos             ████████████░░░░░░░░░░░░░   50.0% 
+TeX                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+MATLAB                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Assembly                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
