@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [![Gravifer's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravifer&theme=default&bg_color=ffffff0a&text_color=808080&hide_border=true&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Gravifer's StackExchange profile](https://stackexchange.com/users/flair/18316138.png?theme=clean)](https://mathematica.stackexchange.com/users/72025)
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gravifer.Gravifer)](https://github.com/Gravifer/) -->
+<!-- <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0337-9274" href="https://orcid.org/0000-0003-0337-9274" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0337-9274</a></div> -->
+<!-- [![Gravifer's ORCID id](https://img.shields.io/static/v1?label=ORCID&message=0000-0003-0337-9274&style=flat&logo=orcid7logoColor=white&color=a6ce39)](https://orcid.org/0000-0003-0337-9274) -->
 
 <details>
   <summary>
