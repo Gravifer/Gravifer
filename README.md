@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [![Gravifer's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravifer&theme=default&bg_color=ffffff0a&text_color=808080&hide_border=true&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Gravifer's StackExchange profile](https://stackexchange.com/users/flair/18316138.png?theme=clean)](https://mathematica.stackexchange.com/users/72025)
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gravifer.Gravifer)](https://github.com/Gravifer/) -->
+<!-- <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0337-9274" href="https://orcid.org/0000-0003-0337-9274" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0337-9274</a></div> -->
+<!-- [![Gravifer's ORCID id](https://img.shields.io/static/v1?label=ORCID&message=0000-0003-0337-9274&style=flat&logo=orcid7logoColor=white&color=a6ce39)](https://orcid.org/0000-0003-0337-9274) -->
 
 <details>
   <summary>
@@ -30,17 +32,17 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-818861%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-820726%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    90 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
-🌆 Daytime    253 commits    ███████████░░░░░░░░░░░░░░   44.08% 
-🌃 Evening    184 commits    ████████░░░░░░░░░░░░░░░░░   32.06% 
-🌙 Night      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.19%
+🌞 Morning    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
+🌆 Daytime    288 commits    ███████████░░░░░░░░░░░░░░   45.07% 
+🌃 Evening    213 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
+🌙 Night      54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
 
 ```
 
@@ -49,42 +51,40 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Browsing                 6 hrs 59 mins       ████████████████░░░░░░░░░   65.43% 
-Other                    2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   23.15% 
-Julia                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.53% 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7%
+Browsing                 13 hrs 27 mins      ███████████████████████░░   92.72% 
+Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77% 
+Julia                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-Browser                  7 hrs 2 mins        ████████████████░░░░░░░░░   65.87% 
-Powerpoint               2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
-VS Code                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-Word                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
-Excel                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+Browser                  13 hrs 58 mins      ████████████████████████░   96.26% 
+VS Code                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
 
 🐱‍💻 Projects: 
-emails                   6 hrs 7 mins        ██████████████░░░░░░░░░░░   57.3% 
-Unknown Project          2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   26.41% 
-Kinetic.jl               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-CFD2021-G4-Projects      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+literature-reading       13 hrs 7 mins       ██████████████████████░░░   90.39% 
+q1rw                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
+teepthesis               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
+emails                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.0% 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
 
 💻 Operating System: 
-Windows                  10 hrs 40 mins      █████████████████████████   100.0%
+Windows                  14 hrs 30 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Mathematica** 
 
 ```text
-Mathematica              8 repos             █████████████░░░░░░░░░░░░   53.33% 
-TeX                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-MATLAB                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Mathematica              8 repos             ███████████░░░░░░░░░░░░░░   47.06% 
+TeX                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+MATLAB                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
 
 
+ Last Updated on 09/07/2021
 <!--END_SECTION:waka-->
 </details>
