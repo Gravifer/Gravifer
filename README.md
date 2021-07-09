@@ -32,17 +32,17 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-820726%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
-🌆 Daytime    288 commits    ███████████░░░░░░░░░░░░░░   45.07% 
-🌃 Evening    213 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
+🌞 Morning    71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+🌆 Daytime    301 commits    ███████████░░░░░░░░░░░░░░   47.1% 
+🌃 Evening    215 commits    ████████░░░░░░░░░░░░░░░░░   33.65% 
+🌙 Night      52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14%
 
 ```
 
