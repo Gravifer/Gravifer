@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-827736%20lines%20of%20code-blue)
 
@@ -51,19 +51,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Browsing                 54 mins             █████████████████░░░░░░░░   70.54% 
-LaTeX                    22 mins             ███████░░░░░░░░░░░░░░░░░░   29.46%
+Browsing                 1 hr 17 mins        ███████████████████░░░░░░   77.45% 
+LaTeX                    22 mins             █████░░░░░░░░░░░░░░░░░░░░   22.55%
 
 🔥 Editors: 
-Browser                  1 hr 16 mins        █████████████████████████   100.0%
+Browser                  1 hr 40 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-literature-reading       48 mins             ████████████████░░░░░░░░░   63.93% 
-queue-sdp                22 mins             ███████░░░░░░░░░░░░░░░░░░   29.46% 
-learning-mma             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.61%
+literature-reading       56 mins             ██████████████░░░░░░░░░░░   56.3% 
+queue-sdp                22 mins             █████░░░░░░░░░░░░░░░░░░░░   22.55% 
+learning-music           16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+learning-mma             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.06%
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.0%
+Windows                  1 hr 35 mins        █████████████████████████   100.0%
 
 ```
 
@@ -80,6 +81,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2021
+ Last Updated on 14/08/2021
 <!--END_SECTION:waka-->
 </details>
