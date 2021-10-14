@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-830057%20lines%20of%20code-blue)
 
@@ -51,20 +51,20 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 40 mins        ██████████████░░░░░░░░░░░   58.34% 
-Browsing                 1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   41.66%
+Browsing                 3 hrs 29 mins       █████████████████░░░░░░░░   67.51% 
+Other                    1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   32.49%
 
 🔥 Editors: 
-Word                     1 hr 40 mins        ██████████████░░░░░░░░░░░   58.34% 
-Browser                  1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   41.66%
+Browser                  3 hrs 29 mins       █████████████████░░░░░░░░   67.51% 
+Word                     1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   32.49%
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 40 mins        ██████████████░░░░░░░░░░░   58.34% 
-literature-reading       1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   41.2% 
-learning-mma             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+literature-reading       3 hrs 28 mins       ████████████████░░░░░░░░░   67.25% 
+Unknown Project          1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   32.49% 
+learning-mma             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.0%
+Windows                  5 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,6 +81,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
 </details>
