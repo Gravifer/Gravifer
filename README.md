@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784419%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,23 +53,21 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Browsing                 8 hrs 9 mins        ███████████████████████░░   95.3% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-LaTeX                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+Browsing                 4 hrs 22 mins       ███████████████████████░░   94.71% 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.29%
 
 🔥 Editors: 
-Browser                  8 hrs 19 mins       ████████████████████████░   97.14% 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
+Browser                  4 hrs 22 mins       ███████████████████████░░   94.71% 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
 Excel                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-literature-reading       7 hrs 23 mins       █████████████████████░░░░   86.22% 
-learning-mma             46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.08% 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-queue-sdp                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+literature-reading       3 hrs 36 mins       ███████████████████░░░░░░   77.89% 
+learning-mma             46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.29%
 
 💻 Operating System: 
-Windows                  8 hrs 33 mins       █████████████████████████   100.0%
+Windows                  4 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -86,6 +84,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 </details>
