@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784%20Thousand%20lines%20of%20code-blue)
 
@@ -53,20 +53,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    26 mins             ██████████████░░░░░░░░░░░   56.08% 
-Browsing                 20 mins             ███████████░░░░░░░░░░░░░░   43.92%
+Other                    26 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Excel                    26 mins             ██████████████░░░░░░░░░░░   56.08% 
-Browser                  20 mins             ███████████░░░░░░░░░░░░░░   43.92% 
+Excel                    26 mins             █████████████████████████   100.0% 
 Powerpoint               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-Unknown Project          26 mins             ██████████████░░░░░░░░░░░   56.08% 
-literature-reading       20 mins             ███████████░░░░░░░░░░░░░░   43.92%
+Unknown Project          26 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.0%
+Windows                  26 mins             █████████████████████████   100.0%
 
 ```
 
@@ -83,6 +80,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
 </details>
