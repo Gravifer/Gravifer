@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%203%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784%20Thousand%20lines%20of%20code-blue)
@@ -60,7 +58,8 @@ Powerpoint               23 mins             ███████████�
 Word                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🐱‍💻 Projects: 
-Unknown Project          23 mins             █████████████████████████   100.0%
+Unknown Project          23 mins             █████████████████████████   100.0% 
+queue-sdp                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
 Windows                  23 mins             █████████████████████████   100.0%
@@ -80,6 +79,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2021
+ Last Updated on 27/12/2021
 <!--END_SECTION:waka-->
 </details>
