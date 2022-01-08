@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Word                     1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,6 +79,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka-->
 </details>
