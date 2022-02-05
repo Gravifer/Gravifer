@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -53,18 +53,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Browsing                 5 hrs 29 mins       █████████████████████████   100.0%
+Browsing                 9 hrs 49 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  5 hrs 29 mins       █████████████████████████   100.0%
+Browser                  9 hrs 49 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-literature-reading       5 hrs 9 mins        ███████████████████████░░   94.04% 
-wakatime-config          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.96% 
+literature-reading       9 hrs 39 mins       ████████████████████████░   98.29% 
+wakatime-config          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
 emails                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.0%
+Windows                  9 hrs 49 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,6 +81,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2022 01:40:43 UTC
+ Last Updated on 05/02/2022 01:05:54 UTC
 <!--END_SECTION:waka-->
 </details>
