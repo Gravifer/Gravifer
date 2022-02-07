@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784%20Thousand%20lines%20of%20code-blue)
 
@@ -53,17 +53,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Browsing                 9 hrs 12 mins       █████████████████████████   100.0%
+Browsing                 7 hrs 5 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  9 hrs 12 mins       █████████████████████████   100.0%
+Browser                  7 hrs 5 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-literature-reading       9 hrs 12 mins       █████████████████████████   100.0% 
-emails                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+literature-reading       7 hrs 5 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 12 mins       █████████████████████████   100.0%
+Windows                  7 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -80,6 +79,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2022 02:02:38 UTC
+ Last Updated on 07/02/2022 01:14:47 UTC
 <!--END_SECTION:waka-->
 </details>
