@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784%20Thousand%20lines%20of%20code-blue)
@@ -41,10 +39,10 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
-🌆 Daytime    299 commits    ████████████░░░░░░░░░░░░░   48.62% 
-🌃 Evening    210 commits    ████████░░░░░░░░░░░░░░░░░   34.15% 
-🌙 Night      45 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
+🌞 Morning    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+🌆 Daytime    299 commits    ████████████░░░░░░░░░░░░░   48.7% 
+🌃 Evening    210 commits    ████████░░░░░░░░░░░░░░░░░   34.2% 
+🌙 Night      44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.17%
 
 ```
 
@@ -79,6 +77,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2022 01:47:50 UTC
+ Last Updated on 13/02/2022 01:21:48 UTC
 <!--END_SECTION:waka-->
 </details>
