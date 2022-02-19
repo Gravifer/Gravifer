@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Browsing                 12 mins             █████████████████████████   100.0%
+Browsing                 3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  12 mins             █████████████████████████   100.0%
+Browser                  3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-literature-reading       12 mins             █████████████████████████   100.0%
+literature-reading       3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.0%
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -79,6 +79,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2022 01:49:24 UTC
+ Last Updated on 19/02/2022 01:19:26 UTC
 <!--END_SECTION:waka-->
 </details>
