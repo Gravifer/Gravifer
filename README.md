@@ -27,59 +27,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary>
-    <strong>My Working Style</strong><!--<a href="https://wakatime.com/badge/github/Gravifer/Gravifer"><img src="https://wakatime.com/badge/github/Gravifer/Gravifer.svg" alt="time tracker"></a>-->
+    <strong> WakaTime </strong><!--<a href="https://wakatime.com/badge/github/Gravifer/Gravifer"><img src="https://wakatime.com/badge/github/Gravifer/Gravifer.svg" alt="time tracker"></a>-->
   </summary>
 
 [![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-784%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-🌆 Daytime    296 commits    ████████████░░░░░░░░░░░░░   48.52% 
-🌃 Evening    210 commits    ████████░░░░░░░░░░░░░░░░░   34.43% 
-🌙 Night      44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.21%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Browsing                 9 hrs 57 mins       █████████████████████████   100.0%
-
-🔥 Editors: 
-Browser                  9 hrs 57 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-learning-mma             7 hrs 20 mins       ██████████████████░░░░░░░   73.73% 
-literature-reading       2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   26.27%
-
-💻 Operating System: 
-Windows                  9 hrs 57 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Mathematica** 
-
-```text
-Mathematica              8 repos             ███████████░░░░░░░░░░░░░░   44.44% 
-TeX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-MATLAB                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-
-```
-
-
-
- Last Updated on 25/02/2022 01:50:44 UTC
-<!--END_SECTION:waka-->
 </details>
