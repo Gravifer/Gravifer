@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg) -->
+<a rel="me" href="https://mastodon.social/@gravifer">[mas.to/@gravifer](https://mastodon.social/@gravifer)</a>
 
 <!-- [![Gravifer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gravifer&theme=default&background=ffffff0a&border=00000000&stroke=80808080&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Gravifer)](https://github.com/LordDashMe/github-contribution-stats/)  -->
