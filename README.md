@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <!-- [![Gravifer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gravifer&theme=default&background=ffffff0a&border=00000000&stroke=80808080&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Gravifer)](https://github.com/LordDashMe/github-contribution-stats/)  -->
 [![Gravifer's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Gravifer&hide_title=true&show_icons=true&include_all_commits=true&theme=default_repocard)]([https://github-stats-extended.vercel.app/api?username=Gravifer&hide_title=true&show_icons=true&include_all_commits=true&theme=default_repocard](https://github.com/stats-organization/github-stats-extended))
-[![Gravifer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gravifer&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  <!--(https://github-readme-activity-graph.cyclic.app/graph?username=Gravifer&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true)--> <!--(https://activity-graph.herokuapp.com/graph?username=Gravifer&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true)-->
-[![Gravifer's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gravifer&theme=default&bg_color=ffffff0a&text_color=808080&hide_border=true&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Gravifer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gravifer&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->  <!--(https://github-readme-activity-graph.cyclic.app/graph?username=Gravifer&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true)--> <!--(https://activity-graph.herokuapp.com/graph?username=Gravifer&bg_color=ffffff0a&color=3080ed&line=5094f0&point=4d72f2&hide_border=true)-->
+[![Gravifer's GitHub top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Gravifer&theme=default&bg_color=ffffff0a&text_color=808080&hide_border=true&show_icons=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Gravifer's StackExchange profile](https://stackexchange.com/users/flair/18316138.png?theme=clean)](https://mathematica.stackexchange.com/users/72025)
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gravifer.Gravifer)](https://github.com/Gravifer/) -->
 <!-- <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-0337-9274" href="https://orcid.org/0000-0003-0337-9274" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-0337-9274</a></div> -->
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
     <strong> WakaTime </strong><!--<a href="https://wakatime.com/badge/github/Gravifer/Gravifer"><img src="https://wakatime.com/badge/github/Gravifer/Gravifer.svg" alt="time tracker"></a>-->
   </summary>
 
-[![time tracker](https://wakatime.com/badge/github/Gravifer/Gravifer.svg)](https://wakatime.com/badge/github/Gravifer/Gravifer)
+[![time tracker](https://wakatime.com/badge/user/aa32be50-bda8-4e2d-9eeb-31db65344dd4.svg)](https://wakatime.com/@aa32be50-bda8-4e2d-9eeb-31db65344dd4)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Gravifer&langs_count=6&display_format=percent&theme=default_repocard)](https://wakatime.com/@Gravifer)
 
 </details>
