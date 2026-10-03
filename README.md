@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> I star because then I know I've not payed enough attention the last time when I walk into it again
+> I follow because I like the project and the avatar art is cool oOo
+
 <!-- ![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg) -->
 <a rel="me" href="https://mastodon.social/@gravifer">[mas.to/@gravifer](https://mastodon.social/@gravifer)</a>
 
